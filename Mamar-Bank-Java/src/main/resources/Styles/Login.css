@@ -1,0 +1,42 @@
+.login_container{
+    -fx-background-color: #EEEEEE;
+}
+/* Logo container */
+.login_logo_container{
+    -fx-background-color: #132A13;
+    -fx-alignment: center;
+}
+
+.login_logo_container Text{
+    -fx-font-size: 2em;
+    -fx-text-fill: #FFFFFF;
+}
+
+.login_logo_container FontAwesomeIcomView{
+    -fx-fill: #ECF30E;
+}
+
+/*Account selector box style*/
+.account_selector{
+    -fx-background-color: #ECF39E;
+}
+.account_selector .Label{
+    -fx-text-fill: #132A13;
+    -fx-font-size: 1.1em;
+}
+
+.account_selector .arrow{
+    -fx-background-color: #132A13;
+}
+
+#choice-box-pop-up-menu{
+    -fx-background-color: #ECF39E;
+}
+
+
+/*Login form style*/
+
+.login_form_container{
+    -fx-spacing: 15;
+    -fx-alignment: top_left;
+}
