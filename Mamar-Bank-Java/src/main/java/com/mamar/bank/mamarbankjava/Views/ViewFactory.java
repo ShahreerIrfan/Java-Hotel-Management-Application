@@ -9,6 +9,7 @@ import javafx.stage.Stage;
 public class ViewFactory {
     // client views
     private AnchorPane dashboardView;
+    private AnchorPane TransactionView;
     private Scene scene2; // Corrected variable name
 
     public ViewFactory() {}
@@ -23,6 +24,17 @@ public class ViewFactory {
             }
         }
         return dashboardView;
+    }
+
+    public AnchorPane getTransactionView() {
+       if(TransactionView == null){
+            try {
+                TransactionView = new FXMLLoader(getClass().getResource("/Fxml/Client/Transaction.fxml")).load();
+            }catch (Exception e){
+                e.printStackTrace();
+            }
+       }
+       return TransactionView;
     }
 
     public void showLoginWindow() {
