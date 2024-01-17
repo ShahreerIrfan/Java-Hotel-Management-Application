@@ -1,4 +1,4 @@
-# Java Banking System
+# 🏦 Java Banking System
 
 ![Java Banking System Logo](url_to_logo.png)
 
@@ -13,21 +13,21 @@ A comprehensive and flexible Java-based banking system that allows users to perf
 - [Contributing](#contributing)
 - [License](#license)
 
-## Features
+## 🚀 Features
 
 - **Account Management:** Create, view, and manage user accounts.
 - **Transactions:** Perform deposit, withdrawal, and transfer operations.
 - **Security:** Implement secure user authentication and authorization.
 - **History:** Keep track of transaction history.
 
-## Prerequisites
+## 🛠 Prerequisites
 
 - Java Development Kit (JDK) installed
 - MySQL Database for data storage
 
-## Installation
+## ⚙ Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/your-username/java-banking-system.git
