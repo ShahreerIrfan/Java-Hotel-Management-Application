@@ -1,7 +1,9 @@
 # 🏦 Java Banking System
 
 <p align="center">
-  <a href="https://ibb.co/smgb1vY"><img src="https://i.ibb.co/r7QFpGr/financial-institution-bank-icon-free-vector.jpg" alt="financial-institution-bank-icon-free-vector" border="0"></a>
+  <a href="https://ibb.co/smgb1vY" target="_blank">
+    <img src="https://i.ibb.co/r7QFpGr/financial-institution-bank-icon-free-vector.jpg" alt="Financial Institution Bank Icon" style="width: 50px; height: 50px;" border="0">
+  </a>
 </p>
 
 A comprehensive and flexible Java-based banking system that allows users to perform various banking operations.
