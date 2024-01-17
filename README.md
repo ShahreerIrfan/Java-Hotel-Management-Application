@@ -1,6 +1,6 @@
 # 🏦 Java Banking System
 
-<p align="center">
+<p align="left">
   <a href="https://ibb.co/smgb1vY" target="_blank">
     <img src="https://i.ibb.co/r7QFpGr/financial-institution-bank-icon-free-vector.jpg" alt="Financial Institution Bank Icon" style="width: 50px; height: 50px;" border="0">
   </a>
